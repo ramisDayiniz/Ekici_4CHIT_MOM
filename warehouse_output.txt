@@ -1,6 +1,10 @@
+SUCCESS: 003, Wien Westbahnhof
+Read from Message Queue: Wien Westbahnhof
+Product: Käse 500g - Quantity: 200
+Product: Butter 250g - Quantity: 300
+-------------------------------------------------
+SUCCESS: 001, Linz Bahnhof
 Read from Message Queue: Linz Bahnhof
-Product: Persil Discs Color - Quantity: 1430
-Product: Bio Apfelsaft Gold - Quantity: 3420
-Product: Ariel Waschmittel Color - Quantity: 478
+Product: Vollkornbrot - Quantity: 500
 Product: Bio Orangensaft Sonne - Quantity: 2500
 -------------------------------------------------
